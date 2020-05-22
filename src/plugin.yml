@@ -1,0 +1,12 @@
+main: de.rexlnico.teleportals.main.Main
+name: Teleportals
+version: 1.0
+author: rexlNico
+website: dev.rexlNico.de
+
+commands:
+  addRegion:
+  setTeleport:
+  clearRegions:
+  deleteTeleportal:
+  listTeleportals:

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Teleportals">
+    <output-path>F:/McServerProgramm/servers/1.15/plugins</output-path>
+    <root id="archive" name="Teleportals.jar">
+      <element id="module-output" name="Teleportals" />
+    </root>
+  </artifact>
+</component>
